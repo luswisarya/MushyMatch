@@ -17,7 +17,7 @@ MushyMatch is an application that can help to identify the types of mushrooms, h
 | Mobile Development | A060DSY1136 | [Intan Sri Ramadhan](https://github.com/intansriramadhan) | Polytechnic Of Bengkalis |
 
 ### Demo 
-See the application demo, [here]()
+See the application demo, [here]().
 
 ### Documentation
 - [Machine Learning](https://github.com/luswisarya/ML-MushyMatch)
@@ -26,4 +26,4 @@ See the application demo, [here]()
 
 
 ### Dataset
-See and download the dataset, [here](https://drive.google.com/drive/folders/1c2yqdQncNwAM5s0Z2LxaDW2uiIBxFjCy?usp=sharing)
+See and download the dataset, [here](https://drive.google.com/drive/folders/1c2yqdQncNwAM5s0Z2LxaDW2uiIBxFjCy?usp=sharing).
