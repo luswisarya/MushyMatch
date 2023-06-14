@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/luswisarya/MushyMatch/blob/image/image.jpg?raw=true) width="50%">
+</p>
 # MushyMatch - Identify, Get Info, and Know the Benefit
 
 ### Summary
