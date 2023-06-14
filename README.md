@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/luswisarya/MushyMatch/assets/97390837/a34a41cd-cd43-46f5-83e4-e542a579234d)">
+  <img src="https://user-images.githubusercontent.com/97390837/245878082-301a6497-daf0-4ee5-a96d-2cad8031a097.png">
 </p>
 
 # MushyMatch - Identify, Get Info, and Know the Benefit
