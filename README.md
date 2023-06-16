@@ -3,8 +3,6 @@
 </p>
 
 # MushyMatch - Identify, Get Info, and Know the Benefit
-
-### Summary
 MushyMatch is an application that can help to identify the types of mushrooms, how to process mushrooms properly, and how to cultivate these mushrooms.
 
 ### Team ID: C23-PS284
