@@ -7,7 +7,7 @@ MushyMatch is an application that can help to identify the types of mushrooms, h
 
 ### Team ID: C23-PS284
 
-### Team Member 
+### Team Meember
 
 | Learning Path | ID | Name | University |
 | :---------: | :---------------------------: | :--------------------: | :-----------------------------------------: |
